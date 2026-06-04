@@ -4,7 +4,7 @@ this repo consists of the leetcode problems with their solution that are asked i
 <br> https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems
 <br>
 <ol>
-  <li>DAY 1 : https://github.com/Avneesh-kun/SDESheetChallenge/tree/Day01</li>
+  <li>DAY 1 <a href ="https://github.com/Avneesh-kun/SDESheetChallenge/tree/Day01"></li>
   <li>DAY 2 : https://github.com/Avneesh-kun/SDESheetChallenge/tree/Day02</li>
   <li>DAY 3 :https://github.com/Avneesh-kun/SDESheetChallenge/tree/Day3</li>
 </ol>
